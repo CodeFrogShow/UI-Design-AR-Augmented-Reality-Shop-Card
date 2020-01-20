@@ -6,7 +6,7 @@ Channel Name: CodeFrog
 
 Video Title: UI Design Tutorial - AR(Augmented Reality) Shop Card | HTML CSS BOOTSTRAP Speed Coding
 
-Video Link: https://youtu.be/1xxMvTUqCyk
+Video Link: https://youtu.be/CI2B8J-4S-Q
 
 Fonts used for icons: http://fontawesome.io/
 
